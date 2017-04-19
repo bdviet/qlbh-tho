@@ -29,19 +29,20 @@
         private void InitializeComponent()
         {
             this.rptHDN = new CrystalDecisions.Windows.Forms.CrystalReportViewer();
+            this.HDNReport1 = new Shop_Manager.HDNReport();
             this.SuspendLayout();
             // 
             // rptHDN
             // 
-            this.rptHDN.ActiveViewIndex = -1;
+            this.rptHDN.ActiveViewIndex = 0;
             this.rptHDN.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.rptHDN.Cursor = System.Windows.Forms.Cursors.Default;
             this.rptHDN.Dock = System.Windows.Forms.DockStyle.Fill;
             this.rptHDN.Location = new System.Drawing.Point(0, 0);
             this.rptHDN.Name = "rptHDN";
-            this.rptHDN.SelectionFormula = "";
+            this.rptHDN.ReportSource = this.HDNReport1;
             this.rptHDN.Size = new System.Drawing.Size(688, 352);
             this.rptHDN.TabIndex = 0;
-            this.rptHDN.ViewTimeSelectionFormula = "";
             // 
             // frmBaocaoHDN
             // 
@@ -62,6 +63,7 @@
         #endregion
 
         private CrystalDecisions.Windows.Forms.CrystalReportViewer rptHDN;
+        private HDNReport HDNReport1;
 
     }
 }

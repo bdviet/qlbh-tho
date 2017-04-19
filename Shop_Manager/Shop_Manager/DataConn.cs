@@ -16,8 +16,8 @@ namespace Shop_Manager
         private static DataSet ds;
         static DataConn()
         {
-            //source = "server=DESKTOP-76NH8MU;database=qlbh";
-            source = "Data Source=DESKTOP-76NH8MU;Initial Catalog=qlbh;Integrated Security=True;Encrypt=False;TrustServerCertificate=True";
+            source = "Data Source=(local);Initial Catalog=qlbh;Integrated Security=True;Encrypt=False;TrustServerCertificate=True";
+            //source = "server=(local);uid=sa;database=qlbh;pwd=sa";
             con = new SqlConnection(source);
             try
             {

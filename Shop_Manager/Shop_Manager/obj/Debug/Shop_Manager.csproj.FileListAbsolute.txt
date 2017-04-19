@@ -1,30 +1,29 @@
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.exe
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.pdb
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\bin\Debug\Shop_Manager.exe
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\bin\Debug\Shop_Manager.pdb
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmAbout.resources
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmBaocaoHDN.resources
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmBaocaoHDX.resources
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmBaocaoTonkho.resources
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmDatHang.resources
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmMain.resources
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmDangNhap.resources
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmDanhSachHDN.resources
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmDanhSachHDX.resources
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmDanhSachPhieuDatHang.resources
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmDoanhThu.resources
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmDoiPass.resources
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmHoTroThongBaoDoanhThu.resources
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmInHDN.resources
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmInHDX.resources
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmInPhieu.resources
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmThemNguoiDung.resources
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmMatHang.resources
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmNhaCungCap.resources
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmNhanVien.resources
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmNhap.resources
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.Properties.Resources.resources
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmXuatHang.resources
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.csproj.GenerateResource.Cache
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.csprojResolveAssemblyReference.cache
-C:\Users\TIIN\Desktop\bh\[Sharecode.vn] Source code quan ly ban hang C#\Shop_Manager\Shop_Manager\obj\Debug\QLBH.Properties.Resources.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.exe
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.pdb
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\bin\Debug\Shop_Manager.exe
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\bin\Debug\Shop_Manager.pdb
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.csprojResolveAssemblyReference.cache
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmAbout.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmBaocaoHDN.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmBaocaoHDX.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmBaocaoTonkho.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmDatHang.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmMain.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmDangNhap.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmDanhSachHDN.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmDanhSachHDX.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmDanhSachPhieuDatHang.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmDoanhThu.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmDoiPass.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmHoTroThongBaoDoanhThu.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmInHDN.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmInHDX.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmInPhieu.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmThemNguoiDung.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmMatHang.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmNhaCungCap.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmNhanVien.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmNhap.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.Properties.Resources.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.frmXuatHang.resources
+C:\Users\PLH\Desktop\quanlybanhang\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.csproj.GenerateResource.Cache

@@ -451,7 +451,7 @@
             this.MaximizeBox = false;
             this.Name = "frmMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Phần mềm quản lý bán hàng";
+            this.Text = "Phần mềm quản lý bán hàng Công ty Thanh Đức";
             this.Load += new System.EventHandler(this.frmMain_Load);
             ((System.ComponentModel.ISupportInitialize)(this.grdKetQua)).EndInit();
             this.menuStrip1.ResumeLayout(false);
